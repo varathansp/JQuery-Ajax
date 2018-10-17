@@ -1,0 +1,4 @@
+c:\users\vsuyambu\documents\visual studio 2010\Projects\Ajax\WCFserviceUsingAjax\WCFserviceUsingAjax\bin\WCFserviceUsingAjax.dll
+c:\users\vsuyambu\documents\visual studio 2010\Projects\Ajax\WCFserviceUsingAjax\WCFserviceUsingAjax\bin\WCFserviceUsingAjax.pdb
+c:\users\vsuyambu\documents\visual studio 2010\Projects\Ajax\WCFserviceUsingAjax\WCFserviceUsingAjax\obj\Debug\WCFserviceUsingAjax.dll
+c:\users\vsuyambu\documents\visual studio 2010\Projects\Ajax\WCFserviceUsingAjax\WCFserviceUsingAjax\obj\Debug\WCFserviceUsingAjax.pdb
